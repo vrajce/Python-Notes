@@ -11,8 +11,8 @@ Modules are like code library which are used to borrow code which has been writt
 # The Pip Command
 
 As we know pip is the package manager used to install the libraries(modules).
-
-*pip install panda*
+eg :- 
+*pip install pandas*
 
 ```bash
 pip install pandas
