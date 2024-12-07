@@ -11,6 +11,7 @@ Modules are like code library which are used to borrow code which has been writt
 # The Pip Command
 
 As we know pip is the package manager used to install the libraries(modules).
+
 eg :- 
 *pip install pandas*
 
@@ -19,3 +20,9 @@ pip install pandas
 ```
 the above line will install the panda library and we'll be ready to use.
 
+# usage of module
+```
+import pandas
+# above line will import the pandas module
+print("panda is imported succesfully!!")
+```
