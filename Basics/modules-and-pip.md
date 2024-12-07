@@ -14,5 +14,8 @@ As we know pip is the package manager used to install the libraries(modules).
 
 *pip install panda*
 
+```bash
+pip install pandas
+```
 the above line will install the panda library and we'll be ready to use.
 
