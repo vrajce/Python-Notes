@@ -6,3 +6,13 @@ Modules are like code library which are used to borrow code which has been writt
 1)**Built in** :- now this type of modules are already present , we don't need to install from internet as it comes with python installtion only , like installing modules is not that easy so python came up with most used modules as inbuilt and we can directly import without installing as they are already present . example of modules are "os" , "math" ,... etc
 
 2)**External** :- this type of modules must be installed from internet as it has been written by somebody else and not present in python directly and to install modules from internet we need package manager like pip
+
+
+# The Pip Command
+
+As we know pip is the package manager used to install the libraries(modules).
+
+*pip install panda*
+
+the above line will install the panda library and we'll be ready to use.
+
