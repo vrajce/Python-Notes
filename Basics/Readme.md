@@ -6,4 +6,4 @@
 
 3.[variable](3.Variable and data types.md)
 
-4.[UserInput](4.UsetInput.md)
+4.[UserInput](4.UserInput.md)
