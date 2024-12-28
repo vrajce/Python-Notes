@@ -7,3 +7,5 @@
 3.[variable](3.Variable and data types.md)
 
 4.[UserInput](4.UserInput.md)
+
+5. [Strings](5.Strings.md)
