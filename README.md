@@ -17,9 +17,9 @@ Welcome to my Python learning repository! This is where I document my journey as
 
 ## 🌟 How to Use
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/vrajce/Python-Notes.git
-
+   ```
 ## Sections
 - [Basics](Basics/)
 - [Object-Oriented Programming (OOP)](OOP/)
