@@ -11,3 +11,6 @@
 
 
 5.[Strings](5.Strings.md)
+
+
+6.[String-Slicing](6.String-slicing.md)
